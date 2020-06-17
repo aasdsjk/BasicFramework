@@ -1,6 +1,0 @@
-framework module Pods_BasicFrame {
-  umbrella header "Pods-BasicFrame-umbrella.h"
-
-  export *
-  module * { export * }
-}
